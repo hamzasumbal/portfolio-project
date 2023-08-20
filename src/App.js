@@ -9,6 +9,10 @@ function App() {
         <p>My name is Hamza</p>
         <p>I am a frontend developer</p>
       </section>
+      <section>
+        <h2>Project</h2>
+        <p>Nyan Cat</p>
+      </section>
     </div>
   );
 }
