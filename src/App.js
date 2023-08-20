@@ -7,6 +7,7 @@ function App() {
     <section>
       <h2>About me</h2>
     <p>My name is Hamza</p>
+    <p>I am a frontend developer</p>
     </section>
    </div>
   );
