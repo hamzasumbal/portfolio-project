@@ -1,6 +1,7 @@
 import "./App.css";
 
 function App() {
+  const hamza = ""
   return (
     <div>
       <h1>My Portfolio Project</h1>
